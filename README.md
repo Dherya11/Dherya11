@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Dherya11
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm @Dherya11!
 
-<!---
-Dherya11/Dherya11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 About Me:
+
+💡 Aspiring Developer: Passionate about solving problems and building efficient solutions.
+
+🌱 Currently Learning: Enhancing my skills in C, Python, and MySQL.
+
+💼 Open to Collaborations: Looking forward to working on innovative and meaningful projects.
+
+📧 Reach Me At: nishubedi655@gmail.com | LinkedIn : https://www.linkedin.com/in/dherya-bedi-a99710328/
+
+😄 Pronouns: [Add your pronouns if you'd like]
+
+⚡ Fun Fact: I like electronics as well and enjoy getting involved in unique tech projects.
