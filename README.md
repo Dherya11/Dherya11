@@ -8,7 +8,7 @@
 
 💼 Open to Collaborations: Looking forward to working on innovative and meaningful projects.
 
-📧 Reach Me At: nishubedi655@gmail.com | LinkedIn : https://www.linkedin.com/in/dherya-bedi-a99710328/
+📧 Reach Me At: nishubedi655@gmail.com | LinkedIn : https://www.linkedin.com/in/dherya-bedi-741567368/
 
 😄 Pronouns: [Add your pronouns if you'd like]
 
