@@ -10,6 +10,4 @@
 
 📧 Reach Me At: nishubedi655@gmail.com | LinkedIn : https://www.linkedin.com/in/dherya-bedi-741567368/
 
-😄 Pronouns: [Add your pronouns if you'd like]
-
 ⚡ Fun Fact: I like electronics as well and enjoy getting involved in unique tech projects.
